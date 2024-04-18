@@ -3,5 +3,5 @@ setTimeout(() => {
 }, 3000);
 
 function alert(){
-    console.log("console added"):
+    console.log("console added");
 }
